@@ -5,8 +5,8 @@
 %global crate tokio-macros
 
 Name:           rust-%{crate}
-Version:        0.2.4
-Release:        2%{?dist}
+Version:        2.7.2
+Release:        1%{?dist}
 Summary:        Tokio's proc macros
 
 # Upstream license specification: MIT
